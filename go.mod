@@ -1,4 +1,4 @@
-module zahra
+module github.com/lombokcyberlc/zahra
 
 go 1.14
 
